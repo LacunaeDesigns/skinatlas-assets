@@ -1,0 +1,8 @@
+{
+  "name": "skinatlas-assets",
+  "private": true,
+  "description": "Tooling entrypoints only. No runtime deps, no lockfile.",
+  "scripts": {
+    "check:text": "node scripts/check-text.mjs"
+  }
+}
